@@ -30,7 +30,8 @@ set defsearch=duckduckgo
 " Highlight search keyword
 set hlsearch
 
-set complete=Sh
+" complete sl Sh
+set complete=sl
 
 " a max number of listing items
 set maxitems=40
@@ -55,7 +56,8 @@ set animations
 
 " colorscheme
 "colorscheme indigo
-colorscheme solarized_dark
+"colorscheme solarized_dark
+colorscheme solarized_light
 
 " normal-mode
 set focuscontent
@@ -82,7 +84,7 @@ set editor=gvim\ -f
 "set editor=urxvt\ -e\ vim
 
 " sourcing .vimperatorrc
-noremap <Leader>r :source ~/.homesick/repos/dotfiles/home/.vimperatorrc<CR>
+noremap <Leader>r :source /home/dmc/.homesick/repos/mozilla-castle/home/.vimperatorrc<CR>
 
 " hint, disables fcitx
 nnoremap <silent> f :silent !fcitx-remote -c<CR>f

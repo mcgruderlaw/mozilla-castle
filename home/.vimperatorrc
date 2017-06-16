@@ -55,9 +55,9 @@ set wildmode=list:full
 set animations
 
 " colorscheme
-"colorscheme indigo
+colorscheme indigo
 "colorscheme solarized_dark
-colorscheme solarized_light
+"colorscheme solarized_light
 
 " normal-mode
 set focuscontent

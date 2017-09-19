@@ -100,7 +100,9 @@ noremap ps :tabopen chrome://lastpass/content/home2.xul#/<CR>
 noremap rm :tabopen https://www.rocketmatter.net/mcgruderlaw/<CR>
 noremap ic :tabopen http://www.icle.org/modules/MyICLE/myresources.aspx/<CR>
 noremap ds :tabopen https://deadspin.com/<CR>
-noremap ds :tabopen https://deadspin.com/<CR>
+noremap ra :tabopen http://www.racer.com/<CR>
+noremap ro :tabopen https://theroot.com/<CR>
+noremap li :tabopen https://lichess.org/<CR>
 noremap ta :tabopen https://appengine.google.com/<CR>
 noremap tb :tabopen https://pan.baidu.com<CR>
 noremap td :tabopen https://drive.google.com/<CR>
